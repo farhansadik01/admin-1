@@ -1,0 +1,596 @@
+@media (max-width:1550px){
+    .box-1 h5 {
+        font-Size: 33px;
+    }
+    .box-2 h5 {
+        font-Size: 33px;
+    }   
+     .box-3 h5 {
+        font-Size: 33px;
+    }
+    .box-5 button:hover {
+        width: 162px;
+        background-color: #F40404;
+        color: #fff;
+    }
+}
+@media(max-width: 1520px){
+    .social-icon-1 i {
+        margin: 10px 17px 0 0;
+    }
+    .box-1 h5 {
+        font-Size: 31px;
+    }
+    .box-2 h5 {
+        font-Size: 31px;
+    }
+    .box-3 h5 {
+        font-Size: 31px;
+    }
+
+}
+@media (max-width:1400px){
+    .carousel-item {
+        height: 609px;
+    }
+    .carousel-caption {
+        left: 148px;
+        top: 70px;
+    }
+    .carousel-caption h1 {
+        width: 836px;
+        Font-size: 59px;
+        Line-height: 96px;
+    }
+    .supplier .text-1 p {
+        width: 546px;
+        font-Size: 15px;
+    }.services .heading-2 h5 {
+        font-Size: 55px;
+    }
+    .services .heading-2 p {
+        width: 348px;
+        font-Size: 15px;
+    }
+    .box-2 h5 {
+        font-Size: 27px;
+    }
+    .box-1 h5 {
+        font-Size: 26px;
+    }
+    .box-2 h5 {
+        font-Size: 26px;
+    }
+    .box-3 h5 {
+        font-Size: 26px;
+    }
+    .heading-4 h5 {
+        font-Size: 34px;
+    }
+    .text-area button {
+        width: 126px;
+        height: 45px;
+        font-Size: 15px;
+    }
+    .box-5 button {
+        width: 151px;
+        height: 47px;
+        font-Size: 14px;
+    }
+    .box-5 button:hover {
+        width: 151px;
+        background-color: #F40404;
+        color: #fff;
+    }
+    .logo img {
+        width: 78% !important;
+        margin-bottom: 6px !important;
+        margin-left: 33px !important;
+    }
+}
+@media (max-width:1200px){
+    .carousel-item {
+        height: 609px;
+    }
+    .carousel-caption h1 {
+        width: 763px;
+        Font-size: 47px;
+        Line-height: 60px;
+    }
+    .button-1 button {
+        Font-size: 14px;
+        width: 132px;
+        height: 38px;
+    }
+    .supplier .text-1 p {
+        width: 468px;
+        font-Size: 15px;
+    }
+    .supplier .heading-1 h5 {
+        font-family: Poppins;
+        width: 338px;
+        font-Weight: 700;
+        font-Size: 46px;
+        Line-height: 67px;
+    }
+    .services .heading-2 h5 {
+        font-Size: 48px;
+    }
+    .services .heading-2 p {
+        width: 325px;
+        font-Size: 15px;
+    }
+    .services .heading-2 h5 {
+        left: 131px;
+    }
+    .services .heading-2 p {
+        left: 136px;
+    }
+    .box-1 h5 {
+        font-Size: 21px;
+    }
+    .box-2 h5 {
+        font-Size: 21px;
+    }
+    .box-3 h5 {
+        font-Size: 21px;
+    }
+    .box-4 {
+        width: 583px;
+        margin-left: -56px;
+    }
+    .more button {
+        width: 145px;
+        height: 48px;
+        font-Size: 16px;
+    }
+    .more {
+        left: 216px;
+    }
+    .box-5 h5 {
+        Width: 234px;
+        font-Size: 22px;
+    }
+    .box-5 button {
+        width: 130px;
+        height: 43px;
+        font-Size: 14px;
+        margin-left: 36px;
+    }
+    .box-5 button:hover {
+        width: 130px;
+        background-color: #F40404;
+        color: #fff;
+    }
+    .box-6 p {
+        margin-left: -78px;
+    }
+    .heading-4 h5 {
+        font-Size: 30px;
+    }
+    .text-area button {
+        width: 121px;
+        height: 42px;
+        font-Size: 13px;
+    }
+    .logo img {
+        width: 74% !important;
+        margin-bottom: 6px !important;
+        margin-left: 33px !important;
+    }
+
+}
+
+@media (max-width: 992px){
+    .carousel-item {
+        height: 456px;
+    }
+    .email p {
+        font-size: 10px;
+    }
+    .carousel-caption h1 {
+        width: 560px;
+        Font-size: 40px;
+        Line-height: 48px;
+    }
+    .carousel-caption {
+        left: 147px;
+        top: 78px;
+    }
+    .supplier .text-1 p {
+        width: 345px;
+        font-Size: 15px;
+    }
+    .supplier .heading-1 h5 {
+        width: 295px;
+        font-Size: 40px;
+        Line-height: 71px;
+    }
+    .services .heading-2 h5 {
+        left: 112px;
+    }
+    .services .heading-2 h5 {
+        font-Size: 37px;
+    }
+    .services .heading-2 p {
+        left: 113px;
+    }
+    .services .heading-2 p {
+        width: 285px;
+        font-Size: 14px;
+    }
+    .box-1 h5 {
+        font-Size: 16px;
+    }
+    .box-2 h5 {
+        font-Size: 16px;
+    }
+    .box-3 h5 {
+        font-Size: 16px;
+    }
+    .heading-3 h5 {
+        padding: 100px 82px;
+        margin-left: -27px;
+    }
+    .box-4 {
+        width: 395px;
+        margin-left: 9px;
+    }
+    .more {
+        left: 127px;
+    }
+    .more button {
+        width: 162px;
+        height: 51px;
+    }
+    .logo img {
+        width: 74%;
+        margin-bottom: 6px;
+        margin-left: 33px;
+    }
+    .box-5 h5 {
+        Width: 144px;
+        font-Size: 17px;
+        line-height: 29px;
+    }
+    .box-5 {
+        Height: 306px;
+    }
+    .box-5 button {
+        width: 97px;
+        height: 37px;
+        font-Size: 12px;
+        margin-left: 36px;
+    }
+    .box-5 button:hover {
+        width: 97px;
+        background-color: #F40404;
+        color: #fff;
+    }
+    .box-6 p {
+        margin-left: -125px;
+    }
+    .heading-4 h5 {
+        font-Size: 21px;
+    }
+    .text-area button {
+        width: 91px;
+        height: 39px;
+        font-Size: 11px;
+        margin-left: 66px;
+    }
+    .box-7 p {
+        font-Size: 12px;
+        Line-height: 34px;
+        margin-left: -6px;
+    }
+    .footer-logo img {
+        width: 82px;
+    }
+    .footer-logo {
+        margin-left: -5px;
+    }
+}
+/* @media (max-width: 769px){
+    .logo {
+        margin-top: 10px !important;
+    }
+    .logo img {
+        width: 82% !important;
+        margin-bottom: 9px !important;
+        margin-left: 45px !important;
+    }
+     .box-1 h5 {
+        font-Size: 15px !important;
+    }
+    .box-2 h5 {
+        font-Size: 15px !important;
+    }   
+    .box-3 h5 {
+        font-Size: 15px !important;
+    }
+    .box-2 {
+        Width: 106% !important;
+        margin-left: -21px !important;
+    }
+    .box-3 {
+        Width: 106% !important;
+        margin-left: -21px !important;
+    }
+} */
+@media (max-width: 768px){
+    .carousel-item {
+        height: 341px;
+    }
+    .email p {
+        font-size: 10px;
+    }
+    .social-icon-1 {
+        margin: -32px 24px -36px 0;
+    }
+    .box-2 {
+        Width: 101%;
+        margin-left: 0px;
+    }
+    .box-3 {
+        Width: 101%;
+        margin-left: 0px;
+    }
+    .box-1 h5 {
+        font-Size: 24px;
+    }
+    .box-2 h5 {
+        font-Size: 24px;
+    }
+    .box-3 h5 {
+        font-Size: 24px;
+    }
+    .box-4 {
+        width: 544px;
+        margin-left: -18px;
+    }
+    .heading-3 h5 {
+        padding: 100px 153px;
+        margin-right: -107px;
+    }
+    .heading-3 {
+        width: 411px;
+        height: 332px;
+        margin-left: 20px;
+    }
+    .logo {
+        margin-top: 312px;
+    }
+    .lorem {
+        padding-top: 110px;
+        box-sizing: border-box;
+        margin-left: 266px;
+    }
+    .logo img {
+        width: 26% !important;
+        margin-bottom: 38px !important ;
+        margin-left: 174px !important;
+    }
+    .box-5 {
+        Height: 302px;
+        margin-bottom: 38px;
+        width: 305px;
+        margin-left: -37px;
+    }
+    .box-5 h5 {
+        Width: 232px;
+        font-Size: 18px;
+        line-height: 33px;
+    }
+    .box-6 p {
+        width: 100%;
+        margin: 0px 274px;
+        font-size: 12px;
+        font-family: Poppins;
+    }
+    .heading-4 h5 {
+        font-Size: 20px;
+    }
+    .text-area button {
+        width: 88px;
+        height: 30px;
+        font-Size: 11px;
+        margin-left: 165px;
+    }
+}
+@media (max-width: 578px){
+    .carousel-item {
+        height: 250px;
+    }
+    .supplier .heading-1 h5 {
+        width: 295px;
+        font-Size: 40px;
+        Line-height: 71px;
+        box-sizing: border-box;
+    }
+    .supplier .text-1 p {
+        width: 345px;
+        font-Size: 15px;
+    }
+    .box-1 h5 {
+        font-Size: 20px;
+    }
+    .box-2 h5 {
+        font-Size: 20px;
+    }
+    .box-3 h5 {
+        font-Size: 20px;
+    }
+    .heading-3 {
+        width: 306px;
+        height: 332px;
+        margin-left: 82px;
+    }
+    .heading-3 h5 {
+        padding: 31px -89px;
+        margin-right: -107px;
+        width: 440px;
+    }
+    .box-4 {
+        width: 440px;
+        margin-left: 43px;
+    }
+    .logo img {
+        width: 16% !important ;
+        margin-bottom: 38px !important;
+        margin-left: 182px !important;
+    }
+    .box-5 {
+        Height: 309px !important;
+        width: 306px !important;
+        margin-left: -121px !important;
+    }
+    .box-5 {
+        Height: 386px;
+        margin-bottom: 38px;
+        width: 401px;
+    }
+    .heading-4 h5 {
+        font-Size: 18px;
+    }
+    .logo img {
+        width: 25%;
+        margin-bottom: 38px;
+        margin-left: 182px;
+    }
+
+}
+@media (max-width: 490px){
+    .heading-3 h5 {
+        padding: 56px 99px;
+        margin-left: -71px;
+    }
+    .box-4 {
+        width: 351px;
+        margin-left: -2px;
+        margin-top: -77px;
+    }
+    .more button {
+        width: 119px;
+        height: 37px;
+    }
+    .logo img {
+        width: 11% !important;
+        margin-bottom: 38px !important;
+        margin-left: 105px !important;
+    }
+    .box-5 {
+        Height: 277px !important;
+        margin-bottom: 38px !important;
+        width: 258px !important;
+        margin-left: -221px !important;
+    }
+
+    .box-6 p {
+        margin: 0px 161px;
+        font-size: 11px;
+    }
+    .heading-4 h5 {
+        font-Size: 12px;
+    }
+    .text-area button {
+        width: 79px;
+        height: 25px;
+        font-Size: 11px;
+        margin-left: 88px;
+    }
+    .box-7 {
+        margin-left: 64px;
+    }
+    .manu ul li {
+        margin-left: 42px;
+    }
+    .heading-5 p {
+        width: 849px;
+        margin-left: 62px;
+        padding-top: 27px;
+    }
+    .copyright p {
+        width: 849px;
+        font-Size: 11px;
+    }
+    .footer-logo {
+        margin-left: 74px;
+    }
+}
+@media (max-width: 470px){
+    .box-1 h5 {
+        font-Size: 17px;
+    }
+    .box-2 h5 {
+        font-Size: 17px;
+    }
+    .box-3 h5 {
+        font-Size: 17px;
+    }
+    .box-4 {
+        width: 351px;
+        margin-left: 49px;
+        margin-top: -70px;
+    }
+    .heading-3 h5 {
+        padding: 31px -89px;
+        margin-right: -107px;
+        width: 350px;
+    }
+    .heading-3 h5 {
+        padding: -13px 201px;
+        margin-right: -107px;
+        font-size: 26px;
+    }
+    .heading-3 h5 {
+        padding: 56px 99px;
+        margin-left: -20px;
+    }
+    .heading-4 h5 {
+        font-Size: 14px;
+    }
+    .text-area button {
+        width: 86px;
+        height: 28px;
+        font-Size: 11px;
+        margin-left: 138px;
+    }
+
+
+}
+@media (max-width: 415px){
+    .box-1 h5 {
+        font-Size: 15px;
+    }
+    .box-2 h5 {
+        font-Size: 15px;
+    }
+    .box-3 h5 {
+        font-Size: 15px;
+    }
+    .heading-4 h5 {
+        font-Size: 12px;
+    }
+    .heading-3 h5 {
+        margin-left: -55px;
+    }
+    .box-4 {
+        margin-left: 15px;
+    }
+    .text-area button {
+        margin-left: 107px;
+    }
+}
+
+
+
+
+@media (max-width: 375px){
+    .text-area button {
+        margin-left: 98px;
+    }
+
+
+
+}
